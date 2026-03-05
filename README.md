@@ -20,17 +20,17 @@
 
 ## 📂 Data Source
 
-Simulated Meta Ads–like dataset structured in **SQL Server** to mirror real-world ad delivery data — covering campaigns, ad sets, creatives, spend, impressions, clicks, conversions, revenue, device, and geography dimensions.
+Simulated Meta Ads–like dataset structured in **SQL Server** to mirror real-world ad delivery data; covering campaigns, ad sets, creatives, spend, impressions, clicks, conversions, revenue, device, and geography dimensions.
 
 ---
 
 ## 💡 Dashboard Breakdown
 
 ### Business Problem
-Marketing teams running Meta Ads often lack structured visibility across campaigns and creatives. Spend scales, but fragmented reporting makes it hard to link budget → engagement → revenue — or spot where money is being wasted.
+Marketing teams running Meta Ads often lack structured visibility across campaigns and creatives. Spend scales, but fragmented reporting makes it hard to link budget → engagement → revenue, or spot where money is being wasted.
 
 ### Goal
-Build a BI-ready analytical framework that goes beyond native ad platform dashboards — enabling performance monitoring, cost-efficiency diagnosis, and budget optimization decisions at multiple levels.
+Build a BI-ready analytical framework that goes beyond native ad platform dashboards. Enabling performance monitoring, cost-efficiency diagnosis, and budget optimization decisions at multiple levels.
 
 ---
 
@@ -42,7 +42,7 @@ Build a BI-ready analytical framework that goes beyond native ad platform dashbo
 
 ![Ad Performance Overview](https://raw.githubusercontent.com/Mariarais24/meta-ads-powerbi/main/ad-performance-overview.png)
 
-The executive entry point. Tracks the full funnel from impressions → clicks → conversions, alongside core KPIs: ROAS, CPA, CPC, and CTR — each with a week-over-week delta. A daily spend trend chart surfaces pacing anomalies, while combo charts show whether conversions are becoming more cost-efficient over time and whether reach is growing.
+The executive entry point. Tracks the full funnel from impressions → clicks → conversions, alongside core KPIs: ROAS, CPA, CPC, and CTR; each with a week-over-week delta. A daily spend trend chart surfaces pacing anomalies, while combo charts show whether conversions are becoming more cost-efficient over time and whether reach is growing.
 
 ---
 
@@ -50,7 +50,7 @@ The executive entry point. Tracks the full funnel from impressions → clicks �
 
 ![Campaign Efficiency](https://raw.githubusercontent.com/Mariarais24/meta-ads-powerbi/main/campaign-efficiency.png)
 
-Built for media buyers and optimization analysts. Compares CPC across ad creatives, benchmarks ad spend vs. revenue per campaign, and tracks CPA against conversion volume over time. Filterable by campaign and device — making it easy to isolate what's working and where budget is leaking.
+Built for media buyers and optimization analysts. Compares CPC across ad creatives, benchmarks ad spend vs. revenue per campaign, and tracks CPA against conversion volume over time. Filterable by campaign and device, making it easy to isolate what's working and where budget is leaking.
 
 ---
 
