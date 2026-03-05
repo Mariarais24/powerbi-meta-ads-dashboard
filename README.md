@@ -40,7 +40,7 @@ Build a BI-ready analytical framework that goes beyond native ad platform dashbo
 
 **Page 1 — Ad Performance Overview**
 
-![Ad Performance Overview](https://raw.githubusercontent.com/Mariarais24/meta-ads-powerbi/main/ad-performance-overview.png)
+![Ad Performance Overview](https://github.com/Mariarais24/powerbi-meta-ads-dashboard/blob/main/ad-performance-overview.png)
 
 The executive entry point. Tracks the full funnel from impressions → clicks → conversions, alongside core KPIs: ROAS, CPA, CPC, and CTR; each with a week-over-week delta. A daily spend trend chart surfaces pacing anomalies, while combo charts show whether conversions are becoming more cost-efficient over time and whether reach is growing.
 
@@ -48,7 +48,7 @@ The executive entry point. Tracks the full funnel from impressions → clicks �
 
 **Page 2 — Campaign Cost Efficiency Analysis**
 
-![Campaign Efficiency](https://raw.githubusercontent.com/Mariarais24/meta-ads-powerbi/main/campaign-efficiency.png)
+![Campaign Efficiency](https://github.com/Mariarais24/powerbi-meta-ads-dashboard/blob/main/campaign-efficiency.png)
 
 Built for media buyers and optimization analysts. Compares CPC across ad creatives, benchmarks ad spend vs. revenue per campaign, and tracks CPA against conversion volume over time. Filterable by campaign and device, making it easy to isolate what's working and where budget is leaking.
 
